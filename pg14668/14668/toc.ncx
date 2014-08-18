@@ -1,0 +1,781 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 
+              'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http:///ebooks/14668" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="Project Gutenberg EPUB-Maker v0.02 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>McGuffey's Second Eclectic Reader</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>ECLECTIC EDUCATIONAL SERIES.</text>
+      </navLabel>
+      <content src="r2.html#id00013"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>MCGUFFEY'S®</text>
+      </navLabel>
+      <content src="r2.html#id00014"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>INTRODUCTORY MATTER.</text>
+      </navLabel>
+      <content src="r2.html#id00032"/>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>ARTICULATION.</text>
+        </navLabel>
+        <content src="r2.html#id00036"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>TABLE OF VOCALS.</text>
+        </navLabel>
+        <content src="r2.html#id00039"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>SHORT SOUNDS.</text>
+        </navLabel>
+        <content src="r2.html#id00042"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>DIPHTHONGS.</text>
+        </navLabel>
+        <content src="r2.html#id00044"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>TABLE OF SUBVOCALS.</text>
+        </navLabel>
+        <content src="r2.html#id00046"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>TABLE 0F ASPIRATES.</text>
+        </navLabel>
+        <content src="r2.html#id00048"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>TABLE OF SUBSTITUTES.</text>
+        </navLabel>
+        <content src="r2.html#id00050"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>PUNCTUATION.</text>
+        </navLabel>
+        <content src="r2.html#id00052"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>MCGUFFEY'S SECOND READER.</text>
+        </navLabel>
+        <content src="r2.html#id00063"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>LESSON II.</text>
+        </navLabel>
+        <content src="r2.html#id00078"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>LESSON IV.</text>
+        </navLabel>
+        <content src="r2.html#id00099"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>LESSON V.</text>
+        </navLabel>
+        <content src="r2.html#id00108"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>LESSON VI.</text>
+        </navLabel>
+        <content src="r2.html#id00125"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>LESSON VII.</text>
+        </navLabel>
+        <content src="r2.html#id00147"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>LESSON IX.</text>
+        </navLabel>
+        <content src="r2.html#id00174"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>LESSON X.</text>
+        </navLabel>
+        <content src="r2.html#id00185"/>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>AT WORK.</text>
+          </navLabel>
+          <content src="r2.html#id00188"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>LESSON XI.</text>
+        </navLabel>
+        <content src="r2.html#id00194"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>LESSON XII.</text>
+        </navLabel>
+        <content src="r2.html#id00203"/>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>SUSIE SUNBEAM.</text>
+          </navLabel>
+          <content src="r2.html#id00209"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>LESSON XIII.</text>
+        </navLabel>
+        <content src="r2.html#id00222"/>
+        <navPoint id="np-25" playOrder="25">
+          <navLabel>
+            <text>IF I WERE A SUNBEAM.</text>
+          </navLabel>
+          <content src="r2.html#id00226"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>SECOND READER. 35</text>
+        </navLabel>
+        <content src="r2.html#id00230"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>LESSON XV.</text>
+        </navLabel>
+        <content src="r2.html#id00245"/>
+        <navPoint id="np-28" playOrder="28">
+          <navLabel>
+            <text>DON'T WAKE THE BABY.</text>
+          </navLabel>
+          <content src="r2.html#id00247"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>LESSON XVI.</text>
+        </navLabel>
+        <content src="r2.html#id00251"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>LESSON XVII.</text>
+        </navLabel>
+        <content src="r2.html#id00264"/>
+        <navPoint id="np-31" playOrder="31">
+          <navLabel>
+            <text>MY GOOD-FOR-NOTHING.</text>
+          </navLabel>
+          <content src="r2.html#id00269"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>LESSON XVIII.</text>
+        </navLabel>
+        <content src="r2.html#id00273"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>LESSON XIX.</text>
+        </navLabel>
+        <content src="r2.html#id00292"/>
+        <navPoint id="np-34" playOrder="34">
+          <navLabel>
+            <text>EVENING HYMN.</text>
+          </navLabel>
+          <content src="r2.html#id00296"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>LESSON XX.</text>
+        </navLabel>
+        <content src="r2.html#id00300"/>
+        <navPoint id="np-36" playOrder="36">
+          <navLabel>
+            <text>THE QUARREL.</text>
+          </navLabel>
+          <content src="r2.html#id00303"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>LESSON XXI.</text>
+        </navLabel>
+        <content src="r2.html#id00317"/>
+        <navPoint id="np-38" playOrder="38">
+          <navLabel>
+            <text>THE BEE.</text>
+          </navLabel>
+          <content src="r2.html#id00321"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>SLATE WORK.</text>
+        </navLabel>
+        <content src="r2.html#id00331"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>LESSON XXII.</text>
+        </navLabel>
+        <content src="r2.html#id00334"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>LESSON XXIII.</text>
+        </navLabel>
+        <content src="r2.html#id00345"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>LESSON XXIV.</text>
+        </navLabel>
+        <content src="r2.html#id00364"/>
+        <navPoint id="np-43" playOrder="43">
+          <navLabel>
+            <text>SHEEP-SHEARING.</text>
+          </navLabel>
+          <content src="r2.html#id00368"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>LESSON XXV.</text>
+        </navLabel>
+        <content src="r2.html#id00377"/>
+        <navPoint id="np-45" playOrder="45">
+          <navLabel>
+            <text>THE CLOUDS</text>
+          </navLabel>
+          <content src="r2.html#id00380"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>LESSON XXVI.</text>
+        </navLabel>
+        <content src="r2.html#id00383"/>
+        <navPoint id="np-47" playOrder="47">
+          <navLabel>
+            <text>PATTY AND THE SQUIRREL.</text>
+          </navLabel>
+          <content src="r2.html#id00387"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>LESSON XXVII.</text>
+        </navLabel>
+        <content src="r2.html#id00395"/>
+        <navPoint id="np-49" playOrder="49">
+          <navLabel>
+            <text>THE SPARROW.</text>
+          </navLabel>
+          <content src="r2.html#id00400"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>LESSON XXVIII.</text>
+        </navLabel>
+        <content src="r2.html#id00406"/>
+        <navPoint id="np-51" playOrder="51">
+          <navLabel>
+            <text>SAM AND HARRY.</text>
+          </navLabel>
+          <content src="r2.html#id00409"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>LESSON XXIX.</text>
+        </navLabel>
+        <content src="r2.html#id00423"/>
+        <navPoint id="np-53" playOrder="53">
+          <navLabel>
+            <text>THE LITTLE HILL.</text>
+          </navLabel>
+          <content src="r2.html#id00427"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>LESSON XXX.</text>
+        </navLabel>
+        <content src="r2.html#id00431"/>
+        <navPoint id="np-55" playOrder="55">
+          <navLabel>
+            <text>THE BOAT UPSET.</text>
+          </navLabel>
+          <content src="r2.html#id00435"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>LESSON XXXI.</text>
+        </navLabel>
+        <content src="r2.html#id00445"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>LESSON XXXII.</text>
+        </navLabel>
+        <content src="r2.html#id00450"/>
+        <navPoint id="np-58" playOrder="58">
+          <navLabel>
+            <text>THE TIGER.</text>
+          </navLabel>
+          <content src="r2.html#id00456"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>LESSON XXXIII.</text>
+        </navLabel>
+        <content src="r2.html#id00469"/>
+        <navPoint id="np-60" playOrder="60">
+          <navLabel>
+            <text>THE FIRESIDE.</text>
+          </navLabel>
+          <content src="r2.html#id00473"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>LESSON XXXIV.</text>
+        </navLabel>
+        <content src="r2.html#id00482"/>
+        <navPoint id="np-62" playOrder="62">
+          <navLabel>
+            <text>BIRDIE'S MORNING SONG.</text>
+          </navLabel>
+          <content src="r2.html#id00486"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>LESSON XXXV.</text>
+        </navLabel>
+        <content src="r2.html#id00491"/>
+        <navPoint id="np-64" playOrder="64">
+          <navLabel>
+            <text>WILLIE AND BOUNCE.</text>
+          </navLabel>
+          <content src="r2.html#id00494"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>LESSON XXXVI.</text>
+        </navLabel>
+        <content src="r2.html#id00505"/>
+        <navPoint id="np-66" playOrder="66">
+          <navLabel>
+            <text>WILLIE AND BOUNCE. (CONCLUDED.)</text>
+          </navLabel>
+          <content src="r2.html#id00508"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-67" playOrder="67">
+        <navLabel>
+          <text>LESSON XXXVII.</text>
+        </navLabel>
+        <content src="r2.html#id00518"/>
+        <navPoint id="np-68" playOrder="68">
+          <navLabel>
+            <text>THE KITCHEN CLOCK.</text>
+          </navLabel>
+          <content src="r2.html#id00523"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-69" playOrder="69">
+        <navLabel>
+          <text>LESSON XXXVIII.</text>
+        </navLabel>
+        <content src="r2.html#id00530"/>
+        <navPoint id="np-70" playOrder="70">
+          <navLabel>
+            <text>THE NEW SCALES.</text>
+          </navLabel>
+          <content src="r2.html#id00535"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-71" playOrder="71">
+        <navLabel>
+          <text>LESSON XXXIX.</text>
+        </navLabel>
+        <content src="r2.html#id00554"/>
+      </navPoint>
+      <navPoint id="np-72" playOrder="72">
+        <navLabel>
+          <text>LESSON XL.</text>
+        </navLabel>
+        <content src="r2.html#id00571"/>
+      </navPoint>
+      <navPoint id="np-73" playOrder="73">
+        <navLabel>
+          <text>LESSON XLI.</text>
+        </navLabel>
+        <content src="r2.html#id00581"/>
+      </navPoint>
+      <navPoint id="np-74" playOrder="74">
+        <navLabel>
+          <text>LESSON XLII.</text>
+        </navLabel>
+        <content src="r2.html#id00597"/>
+        <navPoint id="np-75" playOrder="75">
+          <navLabel>
+            <text>WHAT THE LEAF SAID.</text>
+          </navLabel>
+          <content src="r2.html#id00603"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-76" playOrder="76">
+        <navLabel>
+          <text>LESSON XLIII.</text>
+        </navLabel>
+        <content src="r2.html#id00616"/>
+        <navPoint id="np-77" playOrder="77">
+          <navLabel>
+            <text>THE WIND AND THE LEAVES.</text>
+          </navLabel>
+          <content src="r2.html#id00621"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-78" playOrder="78">
+        <navLabel>
+          <text>LESSON XLIV.</text>
+        </navLabel>
+        <content src="r2.html#id00628"/>
+        <navPoint id="np-79" playOrder="79">
+          <navLabel>
+            <text>MAMMA'S PRESENT.</text>
+          </navLabel>
+          <content src="r2.html#id00631"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-80" playOrder="80">
+        <navLabel>
+          <text>LESSON XLV.</text>
+        </navLabel>
+        <content src="r2.html#id00646"/>
+        <navPoint id="np-81" playOrder="81">
+          <navLabel>
+            <text>MARY'S STORY.</text>
+          </navLabel>
+          <content src="r2.html#id00650"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-82" playOrder="82">
+        <navLabel>
+          <text>LESSON XLVI.</text>
+        </navLabel>
+        <content src="r2.html#id00658"/>
+        <navPoint id="np-83" playOrder="83">
+          <navLabel>
+            <text>RALPH WICK.</text>
+          </navLabel>
+          <content src="r2.html#id00663"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-84" playOrder="84">
+        <navLabel>
+          <text>LESSON XLVII.</text>
+        </navLabel>
+        <content src="r2.html#id00678"/>
+        <navPoint id="np-85" playOrder="85">
+          <navLabel>
+            <text>COASTING DOWN THE HILL.</text>
+          </navLabel>
+          <content src="r2.html#id00683"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-86" playOrder="86">
+        <navLabel>
+          <text>LESSON XLVIII.</text>
+        </navLabel>
+        <content src="r2.html#id00690"/>
+        <navPoint id="np-87" playOrder="87">
+          <navLabel>
+            <text>THE FOX AND THE DUCKS.</text>
+          </navLabel>
+          <content src="r2.html#id00693"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-88" playOrder="88">
+        <navLabel>
+          <text>LESSON XLIX.</text>
+        </navLabel>
+        <content src="r2.html#id00704"/>
+        <navPoint id="np-89" playOrder="89">
+          <navLabel>
+            <text>PRETTY IS THAT PRETTY DOES.</text>
+          </navLabel>
+          <content src="r2.html#id00709"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-90" playOrder="90">
+        <navLabel>
+          <text>LESSON L.</text>
+        </navLabel>
+        <content src="r2.html#id00714"/>
+        <navPoint id="np-91" playOrder="91">
+          <navLabel>
+            <text>THE STORY-TELLER</text>
+          </navLabel>
+          <content src="r2.html#id00718"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-92" playOrder="92">
+        <navLabel>
+          <text>LESSON LI.</text>
+        </navLabel>
+        <content src="r2.html#id00727"/>
+        <navPoint id="np-93" playOrder="93">
+          <navLabel>
+            <text>THE STORY TELLER (CONCLUDED)</text>
+          </navLabel>
+          <content src="r2.html#id00730"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-94" playOrder="94">
+        <navLabel>
+          <text>LESSON LII.</text>
+        </navLabel>
+        <content src="r2.html#id00740"/>
+        <navPoint id="np-95" playOrder="95">
+          <navLabel>
+            <text>THE OWL.</text>
+          </navLabel>
+          <content src="r2.html#id00743"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-96" playOrder="96">
+        <navLabel>
+          <text>LESSON LIII.</text>
+        </navLabel>
+        <content src="r2.html#id00754"/>
+        <navPoint id="np-97" playOrder="97">
+          <navLabel>
+            <text>THE OWL. (CONCLUDED.)</text>
+          </navLabel>
+          <content src="r2.html#id00759"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-98" playOrder="98">
+        <navLabel>
+          <text>LESSON LIV.</text>
+        </navLabel>
+        <content src="r2.html#id00770"/>
+        <navPoint id="np-99" playOrder="99">
+          <navLabel>
+            <text>GRANDFATHER'S STORY.</text>
+          </navLabel>
+          <content src="r2.html#id00775"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-100" playOrder="100">
+        <navLabel>
+          <text>LESSON LV.</text>
+        </navLabel>
+        <content src="r2.html#id00786"/>
+        <navPoint id="np-101" playOrder="101">
+          <navLabel>
+            <text>GOD IS GREAT AND GOOD.</text>
+          </navLabel>
+          <content src="r2.html#id00789"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-102" playOrder="102">
+        <navLabel>
+          <text>LESSON LVI.</text>
+        </navLabel>
+        <content src="r2.html#id00795"/>
+        <navPoint id="np-103" playOrder="103">
+          <navLabel>
+            <text>A GOOD OLD MAN.</text>
+          </navLabel>
+          <content src="r2.html#id00799"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-104" playOrder="104">
+        <navLabel>
+          <text>LESSON LVII.</text>
+        </navLabel>
+        <content src="r2.html#id00812"/>
+        <navPoint id="np-105" playOrder="105">
+          <navLabel>
+            <text>THE GREEDY GIRL.</text>
+          </navLabel>
+          <content src="r2.html#id00815"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-106" playOrder="106">
+        <navLabel>
+          <text>LESSON LVIII.</text>
+        </navLabel>
+        <content src="r2.html#id00826"/>
+        <navPoint id="np-107" playOrder="107">
+          <navLabel>
+            <text>A PLACE FOR EVERYTHING.</text>
+          </navLabel>
+          <content src="r2.html#id00829"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-108" playOrder="108">
+        <navLabel>
+          <text>LESSON LIX.</text>
+        </navLabel>
+        <content src="r2.html#id00844"/>
+      </navPoint>
+      <navPoint id="np-109" playOrder="109">
+        <navLabel>
+          <text>LESSON LX.</text>
+        </navLabel>
+        <content src="r2.html#id00856"/>
+        <navPoint id="np-110" playOrder="110">
+          <navLabel>
+            <text>THE BROKEN WINDOW.</text>
+          </navLabel>
+          <content src="r2.html#id00858"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-111" playOrder="111">
+        <navLabel>
+          <text>LESSON LXI.</text>
+        </navLabel>
+        <content src="r2.html#id00870"/>
+        <navPoint id="np-112" playOrder="112">
+          <navLabel>
+            <text>THE BROKEN WINDOW. (CONCLUDED.)</text>
+          </navLabel>
+          <content src="r2.html#id00873"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-113" playOrder="113">
+        <navLabel>
+          <text>LESSON LXII.</text>
+        </navLabel>
+        <content src="r2.html#id00885"/>
+        <navPoint id="np-114" playOrder="114">
+          <navLabel>
+            <text>FRANK AND THE HOURGLASS.</text>
+          </navLabel>
+          <content src="r2.html#id00889"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-115" playOrder="115">
+        <navLabel>
+          <text>LESSON LXIII.</text>
+        </navLabel>
+        <content src="r2.html#id00904"/>
+      </navPoint>
+      <navPoint id="np-116" playOrder="116">
+        <navLabel>
+          <text>LESSON LXIV.</text>
+        </navLabel>
+        <content src="r2.html#id00912"/>
+      </navPoint>
+      <navPoint id="np-117" playOrder="117">
+        <navLabel>
+          <text>JENNY'S CALL.</text>
+        </navLabel>
+        <content src="r2.html#id00917"/>
+        <navPoint id="np-118" playOrder="118">
+          <navLabel>
+            <text>POOR DAVY.</text>
+          </navLabel>
+          <content src="r2.html#id00935"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-119" playOrder="119">
+        <navLabel>
+          <text>LESSON LXVI.</text>
+        </navLabel>
+        <content src="r2.html#id00955"/>
+      </navPoint>
+      <navPoint id="np-120" playOrder="120">
+        <navLabel>
+          <text>LESSON LXVII.</text>
+        </navLabel>
+        <content src="r2.html#id00964"/>
+        <navPoint id="np-121" playOrder="121">
+          <navLabel>
+            <text>A SNOWSTORM.</text>
+          </navLabel>
+          <content src="r2.html#id00968"/>
+        </navPoint>
+        <navPoint id="np-122" playOrder="122">
+          <navLabel>
+            <text>BESSIE.</text>
+          </navLabel>
+          <content src="r2.html#id00982"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-123" playOrder="123">
+        <navLabel>
+          <text>LESSON LXIX.</text>
+        </navLabel>
+        <content src="r2.html#id00996"/>
+        <navPoint id="np-124" playOrder="124">
+          <navLabel>
+            <text>BESSIE. (CONCLUDED.)</text>
+          </navLabel>
+          <content src="r2.html#id00999"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-125" playOrder="125">
+        <navLabel>
+          <text>LESSON LXX.</text>
+        </navLabel>
+        <content src="r2.html#id01011"/>
+        <navPoint id="np-126" playOrder="126">
+          <navLabel>
+            <text>CHEERFULNESS.</text>
+          </navLabel>
+          <content src="r2.html#id01014"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-127" playOrder="127">
+        <navLabel>
+          <text>LESSON LXXI.</text>
+        </navLabel>
+        <content src="r2.html#id01021"/>
+      </navPoint>
+     </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
